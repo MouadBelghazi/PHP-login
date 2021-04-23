@@ -1,0 +1,11 @@
+body,html{
+    background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2014/11/13/514907/1c93491a192a37ba1bc6573730597b4e-700.jpg);
+    position: relative;
+    background-size: cover;
+    width: 1280px;height: 570px;
+}
+
+.logout{
+    background-color: brown;
+   margin-left: 700px;
+}
